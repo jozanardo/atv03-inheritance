@@ -1,3 +1,11 @@
-# Atividade 03 - Herança e polimorfismo 
+# Template para exercícios de POO (Programação Orientada a Objetos)
 
-Todas as instruções constam no enunciado (em PDF) no Moodle.
+Template para criação de projetos IntelliJ IDEA configurados para as aulas de POO ministradas na Universidade Federal do ABC. 
+
+O template já tem pré-configurados:
+
+* o *build system* (Gradle);
+* o sistema de auto-avaliação dos programas (PMD, Checkstyle e JUnit);
+* o estilo utilizado nos códigos (variação do Google Style Guide).
+
+Para ter acesso ao enunciado desse exercício, abra o arquivo poo-2021q2-atv03-inheritance na raiz desse projeto.
